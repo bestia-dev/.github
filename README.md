@@ -6,6 +6,6 @@ No, for Personal Github <https://github.com/bestia-dev>, the special repository 
 
 Pretty inconsistent :-(
 
-And for a quasi personal website <https://bestia-dev.github.io/> the reopsitory has to be named like <https://github.com/bestia-dev/bestia-dev.github.io>.
+And for a quasi personal website <https://bestia-dev.github.io/> the repository has to be named like <https://github.com/bestia-dev/bestia-dev.github.io>.
 
 Of course, I redirected this quasi website to my true website <https://bestia.dev>.
