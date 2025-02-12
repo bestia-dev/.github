@@ -2,7 +2,8 @@
 
  ![maintained](https://img.shields.io/badge/maintained-green)
  ![ready_for_use](https://img.shields.io/badge/ready_for_use-green)
- ![org-readme](https://img.shields.io/badge/org_readme-yellow)
+ ![not-profile-readme](https://img.shields.io/badge/not_profile_readme-red)
+ ![inconsistent](https://img.shields.io/badge/inconsistent-red)
 
 Maybe `.github` is a special repository that shows the `readme` for a Personal GitHub just like for GitHub Organization?
 
