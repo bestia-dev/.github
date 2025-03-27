@@ -1,5 +1,7 @@
 # .github
 
+***This is NOT a special repository for profile README. Inconsistent!***
+
  ![maintained](https://img.shields.io/badge/maintained-green)
  ![ready_for_use](https://img.shields.io/badge/ready_for_use-green)
  ![not-profile-readme](https://img.shields.io/badge/not_profile_readme-red)
